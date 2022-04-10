@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashrpv
 - 👀 I’m interested in machine learning, chemoinformatics and modeling of chemical kinetics.
-- 🌱 I’m currently learning chemoinformatics (with Python).
+- 🌱 I’m currently learning Data Science on Yandex Practicum course, and chemoinformatics in some extents.
 - 📫 You can reach me at asharapaev@muctr.ru
 
 <!---
